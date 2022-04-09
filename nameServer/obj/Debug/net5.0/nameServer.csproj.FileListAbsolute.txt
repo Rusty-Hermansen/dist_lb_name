@@ -1,0 +1,16 @@
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.exe
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.deps.json
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.runtimeconfig.json
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.runtimeconfig.dev.json
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.dll
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\ref\nameServer.dll
+C:\Users\koolm\Documents\dist-lb-name\nameServer\bin\Debug\net5.0\nameServer.pdb
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.csprojAssemblyReference.cache
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.AssemblyInfoInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.AssemblyInfo.cs
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.csproj.CoreCompileInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.dll
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\ref\nameServer.dll
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.pdb
+C:\Users\koolm\Documents\dist-lb-name\nameServer\obj\Debug\net5.0\nameServer.genruntimeconfig.cache

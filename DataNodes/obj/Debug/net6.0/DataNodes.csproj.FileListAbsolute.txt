@@ -1,0 +1,15 @@
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\bin\Debug\net6.0\DataNodes.exe
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\bin\Debug\net6.0\DataNodes.deps.json
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\bin\Debug\net6.0\DataNodes.runtimeconfig.json
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\bin\Debug\net6.0\DataNodes.dll
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\bin\Debug\net6.0\DataNodes.pdb
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.csproj.AssemblyReference.cache
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.AssemblyInfoInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.AssemblyInfo.cs
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.csproj.CoreCompileInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.dll
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\refint\DataNodes.dll
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.pdb
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\DataNodes.genruntimeconfig.cache
+C:\Users\koolm\Documents\dist-lb-name\DataNodes\obj\Debug\net6.0\ref\DataNodes.dll

@@ -1,0 +1,16 @@
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.exe
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.deps.json
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.runtimeconfig.json
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.runtimeconfig.dev.json
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.dll
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\ref\client.dll
+C:\Users\koolm\Documents\dist-lb-name\client\bin\Debug\net5.0\client.pdb
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.csprojAssemblyReference.cache
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.AssemblyInfoInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.AssemblyInfo.cs
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.csproj.CoreCompileInputs.cache
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.dll
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\ref\client.dll
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.pdb
+C:\Users\koolm\Documents\dist-lb-name\client\obj\Debug\net5.0\client.genruntimeconfig.cache
